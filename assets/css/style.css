@@ -1597,7 +1597,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") center center no-repeat;
+  background:#fff;
   color: #fff;
   font-size: 14px;
   position: relative;
@@ -1724,4 +1724,10 @@ section {
   text-align: center;
   font-size: 13px;
   padding-top: 5px;
+}
+
+#footer .design {
+  text-align: center;
+  font-size: 1px;
+  color: #222222;
 }
