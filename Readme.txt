@@ -1,3 +1,6 @@
+Rayze Consulting
+Dhruv Batra
+
 Thanks for downloading this template!
 
 Template Name: Knight
